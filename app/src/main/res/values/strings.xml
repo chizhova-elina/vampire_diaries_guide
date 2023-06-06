@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lr6</string>
+    <string name="welcome">The Vampire Stalkers</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="email">e-mail</string>
+    <string name="mysticGrill">Address: 1116 Clark St. S.W., Covington, GA \nWhy You Need To Go: You must stop and eat at Mystic Grill just because of how iconic it is. It looks a little different on the inside, but the food is so good. You can even walk down the stairs to the alleyway where a few vamps were staked.</string>
+    <string name="clockTower">Address: 2101 Washington St. S.W., Covington, GA \nWhy You Need To Go: This is the tower that Katherine was ready to jump right off of. It\'s located right on Covington Square and is a very popular spot to take photos.</string>
+    <string name="egHome">Address: 2104 Floyd St. N.E., Covington, GA \nWhy You Need To Go: Season four hit many fans hard after Elena turned her emotions off, but don\'t worry, the house is actually still standing. You can\'t go inside, but seeing the outside and that famous wrap-around porch will suffice.</string>
+    <string name="theLockwoodMansion">Address: 2111 Anderson Ave., Covington, GA \nWhy You Need To Go: This mansion is absolutely beautiful and visitors are more than welcome to drive past and admire the beauty. If you want to walk and tour the grounds, you can take the guided tour and get exclusive access.</string>
+    <string name="theSalvatoreMansion">Despite a long list of passionate petitioners, the house formerly known as the Salvatore Boarding House was torn down in 2015. The 14,000 square foot mansion, also known as Glenridge Hall, was initially built in 1929 for Thomas K. Glenn and was later renovated by his granddaughter, Frances Mayson, and her husband Joseph. </string>
+</resources>
